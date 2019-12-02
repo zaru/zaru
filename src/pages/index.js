@@ -26,6 +26,8 @@ const IndexPage = () => (
       <li><a href="https://qiita.com/zaru">Qiita</a></li>
       <li><a href="hhttps://tech.basicinc.jp/accounts/zaru">Basic engineer blog</a></li>
       <li><a href="https://medium.com/@zaru">Medium</a></li>
+      <li><a href="https://speakerdeck.com/zaru_sakuraba">SpeakerDeck</a></li>
+      <li><a href="https://www.slideshare.net/zaruhiroyukisakuraba/presentations">SlideShare</a></li>
       <li><a href="https://www.wantedly.com/users/384807">Wantedly</a></li>
     </ul>
   </Layout>
