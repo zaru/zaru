@@ -18,9 +18,18 @@ const IndexPage = () => (
         <a href="https://github.com/zaru">GitHub</a>
         <ul>
           <li><a href="https://github.com/zaru/webpush">webpush ( Ruby gem )</a></li>
+          <li><a href="https://github.com/zaru/recurl">recurl ( Ruby gem )</a></li>
           <li><a href="https://github.com/zaru/LightningQR">LightningQR ( mac app )</a></li>
           <li><a href="https://github.com/zaru/notify_hub">NotifyHub ( mac app )</a></li>
           <li><a href="https://github.com/zaru/vue.tategaki">Vue tategaki ( vue component )</a></li>
+        </ul>
+      </li>
+      <li>
+        Apps
+        <ul>
+          <li><a href="https://penpenpen.zaru.dev/">penpenpen</a></li>
+          <li><a href="https://pixelated-video.zaru.dev/">pixelated video</a></li>
+          <li><a href="https://lightning-qr.zaru.dev/">Lightning QR reader for Web</a></li>
         </ul>
       </li>
       <li><a href="https://qiita.com/zaru">Qiita</a></li>
