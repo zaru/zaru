@@ -22,6 +22,9 @@ const IndexPage = () => (
           <li><a href="https://github.com/zaru/LightningQR">LightningQR ( mac app )</a></li>
           <li><a href="https://github.com/zaru/notify_hub">NotifyHub ( mac app )</a></li>
           <li><a href="https://github.com/zaru/vue.tategaki">Vue tategaki ( vue component )</a></li>
+          <li><a href="https://github.com/zaru/menuffy">menuffy ( mac app )</a>
+            <ul><li><a href="https://zaru.github.com/menuffy">menuffy website</a></li></ul>
+          </li>
         </ul>
       </li>
       <li>
