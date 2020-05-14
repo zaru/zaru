@@ -17,23 +17,23 @@ const IndexPage = () => (
       <li>
         <a href="https://github.com/zaru">GitHub repositories</a>
         <ul>
-          <li><a href="https://github.com/zaru/webpush">webpush ( Ruby gem )</a></li>
-          <li><a href="https://github.com/zaru/recurl">recurl ( Ruby gem )</a></li>
-          <li><a href="https://github.com/zaru/LightningQR">LightningQR ( mac app )</a></li>
-          <li><a href="https://github.com/zaru/notify_hub">NotifyHub ( mac app )</a></li>
-          <li><a href="https://github.com/zaru/vue.tategaki">Vue tategaki ( vue component )</a></li>
-          <li><a href="https://github.com/zaru/menuffy">menuffy ( mac app )</a>
+          <li><a href="https://github.com/zaru/webpush">webpush ( Ruby gem )</a> WebPush API で送信ができる gem</li>
+          <li><a href="https://github.com/zaru/recurl">recurl ( Ruby gem )</a> Rails, Sinatra Web アプリへのリクエストを curl コマンドでログ保存する gem</li>
+          <li><a href="https://github.com/zaru/LightningQR">LightningQR ( mac app )</a> コピーした URL を即座に QR コードに変換する常駐型 mac アプリ</li>
+          <li><a href="https://github.com/zaru/notify_hub">NotifyHub ( mac app )</a> GitHub の通知センターを表示する常駐型 mac アプリ</li>
+          <li><a href="https://github.com/zaru/vue.tategaki">Vue tategaki ( vue component )</a> 縦書きで contenteditable 可能な Vue コンポーネント</li>
+          <li><a href="https://github.com/zaru/menuffy">menuffy ( mac app )</a> アプリのメニューをマウスカーソルの近くに表示させる mac アプリ
             <ul><li><a href="https://zaru.github.com/menuffy">menuffy website</a></li></ul>
           </li>
-          <li><a href="https://github.com/zaru/mewcam">mewcam ( mac app )</a></li>
+          <li><a href="https://github.com/zaru/mewcam">mewcam ( mac app )</a> カメラの画像をデスクトップの最前面に表示し、背景を透過する mac アプリ</li>
         </ul>
       </li>
       <li>
         WebSites
         <ul>
-          <li><a href="https://penpenpen.zaru.dev/">penpenpen</a></li>
-          <li><a href="https://pixelated-video.zaru.dev/">pixelated video</a></li>
-          <li><a href="https://lightning-qr.zaru.dev/">Lightning QR reader for Web</a></li>
+          <li><a href="https://penpenpen.zaru.dev/">penpenpen</a> トラックパッドでお絵かきしやすいブラウザアプリ</li>
+          <li><a href="https://pixelated-video.zaru.dev/">pixelated video</a> カメラの画像をリアルタイムにドット絵風に変換するブラウザアプリ</li>
+          <li><a href="https://lightning-qr.zaru.dev/">Lightning QR reader for Web</a> QR コードを連続で読み取れるブラウザアプリ</li>
         </ul>
       </li>
       <li><a href="https://qiita.com/zaru">Qiita</a></li>
