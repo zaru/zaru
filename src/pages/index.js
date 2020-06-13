@@ -34,6 +34,7 @@ const IndexPage = () => (
           <li><a href="https://penpenpen.zaru.dev/">penpenpen</a> トラックパッドでお絵かきしやすいブラウザアプリ</li>
           <li><a href="https://pixelated-video.zaru.dev/">pixelated video</a> カメラの画像をリアルタイムにドット絵風に変換するブラウザアプリ</li>
           <li><a href="https://lightning-qr.zaru.dev/">Lightning QR reader for Web</a> QR コードを連続で読み取れるブラウザアプリ</li>
+          <li><a href="https://convert-web-simulator.firebaseapp.com/">convert option simulator</a> ImageMagick の convert コマンドが覚えられない人のためのツール</li>
         </ul>
       </li>
       <li><a href="https://qiita.com/zaru">Qiita</a></li>
