@@ -37,6 +37,7 @@ const IndexPage = () => (
           <li><a href="https://convert-web-simulator.firebaseapp.com/">convert option simulator</a> ImageMagick の convert コマンドが覚えられない人のためのツール</li>
         </ul>
       </li>
+      <li><a href="https://www.youtube.com/channel/UCLPHXwLp90A5R69Eltxo-sg">ムーザルちゃんねる プログラミング勉強会</a></li>
       <li><a href="https://qiita.com/zaru">Qiita</a></li>
       <li><a href="https://tech.basicinc.jp/accounts/zaru">Basic engineer blog</a></li>
       <li><a href="https://medium.com/@zaru">Medium</a></li>
