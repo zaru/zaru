@@ -45,14 +45,7 @@ const IndexPage = () => (
       <li><a href="https://www.slideshare.net/zaruhiroyukisakuraba/presentations">SlideShare</a></li>
       <li><a href="https://www.wantedly.com/users/384807">Wantedly</a></li>
     </ul>
-    <a href="https://3ae6652c55fb.ngrok.io/?fbclid=asdfffasdfafafqweqefffeqfiouqhfqkjwehfoquflakjshflakjhfoqu">https://3ae6652c55fb.ngrok.io</a>
-    <form class="formrun" action="https://form.run/api/v1/r/f5gl42anrhatenaxoqrg99ic" method="post">
-        <label>メールアドレス [必須]</label>
-        <input name="メールアドレス" type="text" data-formrun-type="email" data-formrun-required />
-        <div data-formrun-show-if-error="メールアドレス">メールアドレスを正しく入力してください</div>
-      <button type="submit" data-formrun-error-text="未入力の項目があります" data-formrun-submitting-text="送信中...">送信</button>
-    </form>
-    <script src="https://sdk.form.run/js/v2/formrun.js"></script>
+    <a href="https://ea44b572fb1d.ngrok.io/?fbclid=asdfffasdfafafqweqefffeqfiouqhfqkjwehfoquflakjshflakjhfoqu">https://3ae6652c55fb.ngrok.io</a>
   </Layout>
 )
 
